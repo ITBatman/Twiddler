@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceBusListener", "ServiceBusListener\ServiceBusListener.csproj", "{FAF4EFBD-D1E6-4096-AC0B-FBD1B2A27CD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestHarness", "TestHarness\TestHarness.csproj", "{1F21CA7E-F3BC-46FC-8402-F7BF22312101}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://callmequick.tfspreview.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ServiceBusListener\\ServiceBusListener.csproj
+		SccProjectName1 = ServiceBusListener
+		SccLocalPath1 = ServiceBusListener
+		SccProjectUniqueName2 = TestHarness\\TestHarness.csproj
+		SccProjectName2 = TestHarness
+		SccLocalPath2 = TestHarness
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAF4EFBD-D1E6-4096-AC0B-FBD1B2A27CD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAF4EFBD-D1E6-4096-AC0B-FBD1B2A27CD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAF4EFBD-D1E6-4096-AC0B-FBD1B2A27CD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAF4EFBD-D1E6-4096-AC0B-FBD1B2A27CD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F21CA7E-F3BC-46FC-8402-F7BF22312101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F21CA7E-F3BC-46FC-8402-F7BF22312101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F21CA7E-F3BC-46FC-8402-F7BF22312101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F21CA7E-F3BC-46FC-8402-F7BF22312101}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ServiceBusListener.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ServiceNameSpace" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="IssuerName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">owner</Value>
+    </Setting>
+    <Setting Name="IssuerKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="RedirectTo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://localhost/</Value>
+    </Setting>
+    <Setting Name="EndPointName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Twiddler</Value>
+    </Setting>
+    <Setting Name="Controller" Type="System.String" Scope="User">
+      <Value Profile="(Default)">InitialResponse</Value>
+    </Setting>
+    <Setting Name="Action" Type="System.String" Scope="User">
+      <Value Profile="(Default)">AnswerTheCall</Value>
+    </Setting>
+    <Setting Name="AccountSID" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AccountAuthToken" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DevelopersPhoneNumber" Type="System.String" Scope="User">
+      <Value Profile="(Default)">+15551212</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

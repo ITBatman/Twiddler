@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>JWT</id>
+    <version>1.2</version>
+    <authors>John Sheehan</authors>
+    <owners>John Sheehan</owners>
+    <projectUrl>http://github.com/johnsheehan/jwt</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>JWT (JSON Web Token) Implementation for .NET (Public Domain)</description>
+    <tags>jwt json</tags>
+    <references>
+      <reference file="JWT.dll" />
+    </references>
+  </metadata>
+</package>
